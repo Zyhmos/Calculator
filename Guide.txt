@@ -1,0 +1,22 @@
+SYNTAX IS : result = (" + YOUR_CODE_HERE + ");
+Anything that compiles in YOUR_CODE_HERE should work.
+calculation 3A7 means that x=3, y=7. 
+Every operation will consume bout numbers next to it.  
+That means that even if you want x^2, you should still write down some y value. 
+Priority of operations is- Custom operations first, followed by * and /, followed by + and -.
+Negative numbers are sad. ;-;
+Watch 'DemoWatchMe.gif' to see it in action. 
+
+Examples:
+
+Math.Cos(x)
+
+x*x+y
+
+x*1000+y+1
+
+Math.Floor(x/y)
+
+420
+
+Math.Sqrt(x)
