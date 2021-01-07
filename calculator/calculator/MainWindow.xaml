@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:calculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="695.769" Width="587.363">
+        Title="MainWindow" Height="695.769" Width="591.319">
     <Grid HorizontalAlignment="Left" Width="577" Margin="0,0,0,0.4">
         <TextBlock x:Name="tbScreen" HorizontalAlignment="Left" Margin="10,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="83" Width="560"/>
         <Button Content="1" HorizontalAlignment="Left" Margin="12,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
@@ -22,10 +22,10 @@
         <Button Content="-" HorizontalAlignment="Left" Margin="188,178,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
         <Button Content="*" HorizontalAlignment="Left" Margin="188,231,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
         <Button Content="/" HorizontalAlignment="Left" Margin="188,284,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
-        <Button Content="=" HorizontalAlignment="Left" Margin="241,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click" RenderTransformOrigin="1.217,0.425"/>
-        <Button Content="CLR" HorizontalAlignment="Left" Margin="241,231,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
-        <Button Content="DEL" HorizontalAlignment="Left" Margin="241,178,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
-        <Button x:Name="btEdit" Content="EDIT" HorizontalAlignment="Left" Margin="241,284,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click" RenderTransformOrigin="3.783,0.508"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="241,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click_EQUAL" RenderTransformOrigin="1.217,0.425"/>
+        <Button Content="CLR" HorizontalAlignment="Left" Margin="241,231,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click_CLR"/>
+        <Button Content="DEL" HorizontalAlignment="Left" Margin="241,178,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click_DEL"/>
+        <Button x:Name="btEdit" Content="EDIT" HorizontalAlignment="Left" Margin="241,284,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click_EDIT" RenderTransformOrigin="3.783,0.508"/>
         <Button Content="A" HorizontalAlignment="Left" Margin="310,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
         <Button Content="B" HorizontalAlignment="Left" Margin="363,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
         <Button Content="C" HorizontalAlignment="Left" Margin="416,125,0,0" VerticalAlignment="Top" Width="48" Height="48" Click="Button_Click"/>
