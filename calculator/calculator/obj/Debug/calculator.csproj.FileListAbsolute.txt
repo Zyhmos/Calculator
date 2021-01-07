@@ -1,0 +1,15 @@
+D:\GitHub\Calculator\calculator\calculator\bin\Debug\calculator.exe.config
+D:\GitHub\Calculator\calculator\calculator\bin\Debug\calculator.exe
+D:\GitHub\Calculator\calculator\calculator\bin\Debug\calculator.pdb
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\MainWindow.g.cs
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\App.g.cs
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\MainWindow.baml
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.g.resources
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.exe
+D:\GitHub\Calculator\calculator\calculator\obj\Debug\calculator.pdb
