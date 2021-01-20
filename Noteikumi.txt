@@ -1,0 +1,7 @@
+Kā vienojāmies šodienas sarunā, nosūtu mājas darbu:
+
+Ir jāuztaisa modulārs kalkulators: kalkulators, kuram, neveicot rebuild darbības, varētu pievienot papildus funkcionalitāti.
+
+Uzdevumu vēlams pildīt uz .NET platformas (realizācijai ierobežojumu nav, vari būt radošs: vēlams izmantot WPF un MVVM patternu).
+
+Vērtēta tiks koda kvalitāte, izvēlētais risinājums, domu gājiens un realizācija. Interesē arī, cik daudz ir padarīts 4 stundu laikā (resp., uzdevums nav izpildāms 4 stundās, bet interesē, cik daudz šajā laikā ir paveikts). Vairāk laika var nepatērēt, bet jāspēj pastāstīt, kā uzdevums tiktu risināts tālāk.
